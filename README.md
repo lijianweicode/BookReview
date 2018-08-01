@@ -5,20 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.5.0
 
-* System dependencies
+* Rails 5.2.0
 
-* Configuration
+* System dependencies Ubuntu 14.0.0
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
