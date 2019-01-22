@@ -9,5 +9,5 @@ Things you may want to cover:
 
 * Rails 5.2.0
 
-* System dependencies Ubuntu 14.0.0
+* System dependencies Ubuntu 14.04
 
